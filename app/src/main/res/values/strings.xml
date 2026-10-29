@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Experiment 9: Data Persistence</string>
+    <string name="sp_section_title">Part 1: SharedPreferences</string>
+    <string name="db_section_title">Part 2: SQLite Database</string>
+</resources>
